@@ -1,7 +1,8 @@
 # home
 One stop to get in to data science
+## Exploratory Data Analysis
 
-### Inferential Statistics
+## Inferential Statistics
 - [T-Test](http://blog.minitab.com/blog/statistics-and-quality-data-analysis/what-is-a-t-test-and-why-is-it-like-telling-a-kid-to-clean-up-that-mess-in-the-kitchen)
 
 ## Machine Learning
@@ -11,7 +12,7 @@ One stop to get in to data science
 ### Decision Trees
 - [Coursera Course](https://www.coursera.org/learn/ml-classification)
 
-# Online tools/API which are handy
+## Online tools/API which are handy
 - [Rawgraphs for data visualization](https://www.darrinward.com/lat-long/)
 - [Split CSV files](http://www.textfilesplitter.com/)
 - [Word cloud generator](http://www.wordle.net/)
