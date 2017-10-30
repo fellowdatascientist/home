@@ -21,4 +21,5 @@ One stop to get in to data science
 
 ## References
 - [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
-- []()
+- [Introduction to statistical learning](http://www-bcf.usc.edu/~gareth/ISL/)
+
