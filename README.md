@@ -1,5 +1,9 @@
 # home
 One stop to get in to data science
+
+## Python
+- [Object-Oriented Programming in Python](http://python-textbok.readthedocs.io/en/1.0/Functions.html)
+
 ## Exploratory Data Analysis
 
 ## Inferential Statistics
