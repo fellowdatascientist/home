@@ -5,6 +5,7 @@
 
 ### Decision Trees
 - [Coursera Course](https://www.coursera.org/learn/ml-classification)
+- [Understanding gini co-efficient using simple example](https://www.intmath.com/blog/mathematics/the-gini-coefficient-of-wealth-distribution-4187)
 
 
 ## References
