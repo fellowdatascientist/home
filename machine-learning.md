@@ -10,3 +10,6 @@
 ## References
 - [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 - [Introduction to statistical learning](http://www-bcf.usc.edu/~gareth/ISL/)
+
+### Misc
+- [Bank Direct Marketing Analysis of Data Mining Techniques](http://research.ijcaonline.org/volume85/number7/pxc3893218.pdf)
