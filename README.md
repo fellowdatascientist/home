@@ -14,6 +14,8 @@ One stop to get in to data science
 - [`ggplot2`](https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
 
 
+## Other Reference
+- [General Assembly Data Science (NYC 20)](https://github.com/Aerlinger/DAT_20_NYC/tree/master/)
 ## Online tools/API which are handy
 - [Rawgraphs for data visualization](https://www.darrinward.com/lat-long/)
 - [Split CSV files](http://www.textfilesplitter.com/)
