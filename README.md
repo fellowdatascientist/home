@@ -21,6 +21,6 @@ One stop to get in to data science
 - [Split CSV files](http://www.textfilesplitter.com/)
 - [Word cloud generator](http://www.wordle.net/)
 - [Plot Lat/Long Points on Map by Coordinates](https://www.darrinward.com/lat-long/)
-
+- [HTTP Request & Response Service](http://httpbin.org/)
 
 
