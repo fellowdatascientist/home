@@ -24,3 +24,7 @@ One stop to get in to data science
 - [HTTP Request & Response Service](http://httpbin.org/)
 
 
+## Yet to classify
+- [Amazon Lex to build intelligent systems](https://aws.amazon.com/lex/)
+  - [Create a chat bot](https://aws.amazon.com/blogs/machine-learning/creating-a-question-and-answer-bot-with-amazon-lex-and-amazon-alexa/)
+  
