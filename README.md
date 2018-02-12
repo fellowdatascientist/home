@@ -3,6 +3,7 @@ One stop to get in to data science
 
 ## Python
 - [Object-Oriented Programming in Python](http://python-textbok.readthedocs.io/en/1.0/Functions.html)
+- [Pycon 2016: Regular Expression](https://pycon2016.regex.training/)
 
 ## Exploratory Data Analysis
 - [Missing data treatment in R](https://www.analyticsvidhya.com/blog/2016/03/tutorial-powerful-packages-imputing-missing-values/)
