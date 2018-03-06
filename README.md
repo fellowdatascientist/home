@@ -13,6 +13,7 @@ One stop to get in to data science
 
 ## Data Visualization
 - [`ggplot2`](https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
+- [Explained Visually - A Setosa Project](http://setosa.io/ev/)
 
 
 ## Other Reference
