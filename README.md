@@ -15,6 +15,8 @@ One stop to get in to data science
 - [`ggplot2`](https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
 - [Explained Visually - A Setosa Project](http://setosa.io/ev/)
 
+## Text Mining
+- [LexRank: Graph-based Lexical Centrality as Salience in Text Summarization](https://www.cs.cmu.edu/afs/cs/project/jair/pub/volume22/erkan04a-html/erkan04a.html)
 
 ## Other Reference
 - [General Assembly Data Science (NYC 20)](https://github.com/Aerlinger/DAT_20_NYC/tree/master/)
